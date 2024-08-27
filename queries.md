@@ -10,7 +10,7 @@ query: {name: "Babelgum"}
 projection: {name: 1}
 
 <br>
-
+uzgzug
 **2. All the companies that have more than 5000 employees. Limit the search to 20 companies and sort them by *number of employees*.**
 
 
@@ -73,7 +73,7 @@ limit: 10
 
 **1. All the companies that have been acquired after 2010, order by the acquisition amount, and retrieve only their `name` and `acquisition` field.**
 
-<!-- Your Query Goes Here -->
+
 
 <br>
 
